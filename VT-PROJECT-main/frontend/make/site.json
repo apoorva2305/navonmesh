@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered navigation prioritizing women's safety by analyzing crime, lighting, and activity to recommend the safest routes with live updates and community reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

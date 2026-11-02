@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'Outfit', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-blush-50: #fef9fb;
+  --color-blush-100: #fdf2f6;
+  --color-blush-200: #fae5ee;
+  --color-blush-300: #f5c9d9;
+  --color-rose-300: #e8a0b8;
+  --color-rose-400: #d4718a;
+  --color-rose-500: #c05070;
+  --color-rose-600: #a8435f;
+  --color-mauve-300: #c9a0b2;
+  --color-mauve-400: #b08898;
+  --color-mauve-500: #9a7080;
+  --color-plum-900: #2d1826;
+  --color-plum-800: #3f2234;
+  --color-plum-700: #5a3349;
+  --color-plum-600: #7a4a63;
+  --color-safe-500: #4caf82;
+  --color-safe-400: #6dc99e;
+  --color-amber-500: #f59e0b;
+  --color-danger-500: #ef4444;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fdf2f6;
+  color: #2d1826;
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(192, 80, 112, 0.25); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(192, 80, 112, 0.45); }
+
+.font-display { font-family: 'DM Serif Display', serif; }
+.font-mono { font-family: 'JetBrains Mono', monospace; }
+
+/* Glass card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 113, 138, 0.12);
+}
+
+/* Safe route glow */
+@keyframes safe-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(76, 175, 130, 0.2), 0 4px 24px rgba(76, 175, 130, 0.12); }
+  50% { box-shadow: 0 0 0 6px rgba(76, 175, 130, 0.08), 0 4px 32px rgba(76, 175, 130, 0.2); }
+}
+.glow-safe { animation: safe-glow 2.5s ease-in-out infinite; }
+
+/* Live badge pulse */
+@keyframes live-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(0.92); }
+}
+.live-badge { animation: live-pulse 1.8s ease-in-out infinite; }
+
+/* Notification slide */
+@keyframes slide-in-right {
+  from { transform: translateX(110%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+.slide-in-right { animation: slide-in-right 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+
+/* Leaflet override for baby pink theme */
+.leaflet-container { border-radius: 16px; font-family: 'Outfit', sans-serif; }
+.leaflet-popup-content-wrapper {
+  border-radius: 12px !important;
+  box-shadow: 0 8px 32px rgba(45, 24, 38, 0.15) !important;
+  border: 1px solid rgba(212, 113, 138, 0.15) !important;
+}
+.leaflet-popup-tip { background: white !important; }
+
+/* Map attribution */
+.leaflet-control-attribution {
+  font-family: 'JetBrains Mono', monospace !important;
+  font-size: 9px !important;
+  background: rgba(255,255,255,0.7) !important;
+  backdrop-filter: blur(4px) !important;
+}
+
+/* Smooth input focus */
+input:focus, textarea:focus, select:focus {
+  outline: none;
+}
+
+/* Score ring animation */
+@keyframes score-ring {
+  from { stroke-dashoffset: 283; }
+  to { stroke-dashoffset: var(--target-offset); }
+}
+.score-ring-animate {
+  animation: score-ring 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Bar fill animation */
+@keyframes bar-fill {
+  from { width: 0; }
+  to { width: var(--target-width); }
+}
+.bar-fill { animation: bar-fill 0.8s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+
+/* Bottom nav for mobile */
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(212, 113, 138, 0.15);
+  display: none;
+}
+@media (max-width: 768px) {
+  .bottom-nav { display: flex; }
+  .main-content { padding-bottom: 72px; }
+}

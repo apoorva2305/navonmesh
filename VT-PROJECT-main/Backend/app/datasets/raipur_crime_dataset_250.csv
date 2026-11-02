@@ -1,0 +1,251 @@
+crime_id,crime_name,crime_type,latitude,longitude,locality,severity,crime_count
+CR001,Theft Incident 1,Theft,21.2224,81.6164,Gudhiyari,Low,4
+CR002,Theft Incident 2,Theft,21.242827,81.646275,Pandri,Low,2
+CR003,Chain Snatching Incident 3,Chain Snatching,21.292509,81.673499,Kota,Moderate,4
+CR004,Kidnapping Incident 4,Kidnapping,21.232425,81.625181,Fafadih,High,7
+CR005,Domestic Violence Incident 5,Domestic Violence,21.251428,81.654951,Devendra Nagar,High,1
+CR006,Eve Teasing Incident 6,Eve Teasing,21.22317,81.597444,Amanaka,Moderate,3
+CR007,Stalking Incident 7,Stalking,21.243635,81.648079,Devendra Nagar,Moderate,6
+CR008,Stalking Incident 8,Stalking,21.26166,81.664914,Khamardih,Moderate,8
+CR009,Theft Incident 9,Theft,21.24757,81.628057,Fafadih,Low,5
+CR010,Kidnapping Incident 10,Kidnapping,21.266167,81.657786,Khamardih,High,4
+CR011,Theft Incident 11,Theft,21.242733,81.605646,Samta Colony,Low,5
+CR012,Assault Incident 12,Assault,21.265864,81.648082,Shankar Nagar,High,8
+CR013,Stalking Incident 13,Stalking,21.224602,81.617684,Gudhiyari,Moderate,5
+CR014,Theft Incident 14,Theft,21.251746,81.604738,Samta Colony,Low,4
+CR015,Domestic Violence Incident 15,Domestic Violence,21.238071,81.647832,Pandri,High,4
+CR016,Stalking Incident 16,Stalking,21.235486,81.624416,Gudhiyari,Moderate,4
+CR017,Harassment Incident 17,Harassment,21.264881,81.658419,Khamardih,Moderate,2
+CR018,Kidnapping Incident 18,Kidnapping,21.256022,81.647035,Devendra Nagar,High,8
+CR019,Domestic Violence Incident 19,Domestic Violence,21.264286,81.644234,Avanti Vihar,High,5
+CR020,Kidnapping Incident 20,Kidnapping,21.248855,81.611337,Samta Colony,High,6
+CR021,Eve Teasing Incident 21,Eve Teasing,21.250152,81.643455,Devendra Nagar,Moderate,1
+CR022,Theft Incident 22,Theft,21.254445,81.65456,Khamardih,Low,7
+CR023,Theft Incident 23,Theft,21.298156,81.681534,Kota,Low,8
+CR024,Robbery Incident 24,Robbery,21.247537,81.635772,Fafadih,High,1
+CR025,Theft Incident 25,Theft,21.232907,81.620592,Gudhiyari,Low,5
+CR026,Stalking Incident 26,Stalking,21.213785,81.598956,Amanaka,Moderate,8
+CR027,Robbery Incident 27,Robbery,21.25755,81.634191,Civil Lines,High,2
+CR028,Robbery Incident 28,Robbery,21.265467,81.660123,Khamardih,High,4
+CR029,Stalking Incident 29,Stalking,21.2442,81.64063,Pandri,Moderate,1
+CR030,Stalking Incident 30,Stalking,21.299818,81.67379,Kota,Moderate,6
+CR031,Robbery Incident 31,Robbery,21.305831,81.695854,Changorabhatha,High,2
+CR032,Domestic Violence Incident 32,Domestic Violence,21.265056,81.657648,Shankar Nagar,High,3
+CR033,Domestic Violence Incident 33,Domestic Violence,21.24715,81.634642,Pandri,High,7
+CR034,Sexual Assault Incident 34,Sexual Assault,21.254084,81.653038,Devendra Nagar,High,5
+CR035,Stalking Incident 35,Stalking,21.26901,81.650281,Avanti Vihar,Moderate,2
+CR036,Assault Incident 36,Assault,21.243024,81.642337,Devendra Nagar,High,4
+CR037,Assault Incident 37,Assault,21.292115,81.683325,Kota,High,1
+CR038,Theft Incident 38,Theft,21.256487,81.655754,Devendra Nagar,Low,2
+CR039,Assault Incident 39,Assault,21.236456,81.629767,Fafadih,High,3
+CR040,Kidnapping Incident 40,Kidnapping,21.251219,81.605888,Samta Colony,High,8
+CR041,Chain Snatching Incident 41,Chain Snatching,21.215047,81.593551,Amanaka,Moderate,7
+CR042,Chain Snatching Incident 42,Chain Snatching,21.278578,81.665821,Mowa,Moderate,1
+CR043,Theft Incident 43,Theft,21.22297,81.623651,Gudhiyari,Low,2
+CR044,Assault Incident 44,Assault,21.245043,81.649178,Devendra Nagar,High,7
+CR045,Robbery Incident 45,Robbery,21.239402,81.645992,Pandri,High,2
+CR046,Sexual Assault Incident 46,Sexual Assault,21.283567,81.692434,Tatibandh,High,1
+CR047,Assault Incident 47,Assault,21.254661,81.64977,Shankar Nagar,High,4
+CR048,Chain Snatching Incident 48,Chain Snatching,21.266439,81.654634,Khamardih,Moderate,1
+CR049,Robbery Incident 49,Robbery,21.276824,81.654562,Avanti Vihar,High,5
+CR050,Sexual Assault Incident 50,Sexual Assault,21.27259,81.649787,Avanti Vihar,High,4
+CR051,Assault Incident 51,Assault,21.277499,81.671267,Telibandha,High,1
+CR052,Stalking Incident 52,Stalking,21.242915,81.611347,Samta Colony,Moderate,3
+CR053,Sexual Assault Incident 53,Sexual Assault,21.243282,81.624973,Civil Lines,High,2
+CR054,Assault Incident 54,Assault,21.22846,81.627066,Gudhiyari,High,4
+CR055,Kidnapping Incident 55,Kidnapping,21.292636,81.673312,Kota,High,6
+CR056,Robbery Incident 56,Robbery,21.305268,81.703459,Changorabhatha,High,4
+CR057,Chain Snatching Incident 57,Chain Snatching,21.264094,81.672328,Telibandha,Moderate,8
+CR058,Theft Incident 58,Theft,21.272149,81.661939,Mowa,Low,2
+CR059,Sexual Assault Incident 59,Sexual Assault,21.25541,81.646243,Shankar Nagar,High,6
+CR060,Theft Incident 60,Theft,21.316068,81.697912,Changorabhatha,Low,3
+CR061,Sexual Assault Incident 61,Sexual Assault,21.293257,81.691787,Tatibandh,High,1
+CR062,Sexual Assault Incident 62,Sexual Assault,21.22679,81.622614,Gudhiyari,High,3
+CR063,Theft Incident 63,Theft,21.276235,81.673879,Telibandha,Low,3
+CR064,Robbery Incident 64,Robbery,21.271677,81.673482,Telibandha,High,4
+CR065,Robbery Incident 65,Robbery,21.230087,81.616018,Gudhiyari,High,1
+CR066,Chain Snatching Incident 66,Chain Snatching,21.26527,81.642705,Shankar Nagar,Moderate,6
+CR067,Eve Teasing Incident 67,Eve Teasing,21.222194,81.596191,Amanaka,Moderate,8
+CR068,Chain Snatching Incident 68,Chain Snatching,21.240975,81.62379,Fafadih,Moderate,3
+CR069,Harassment Incident 69,Harassment,21.245354,81.63132,Fafadih,Moderate,3
+CR070,Eve Teasing Incident 70,Eve Teasing,21.262669,81.647834,Avanti Vihar,Moderate,1
+CR071,Stalking Incident 71,Stalking,21.305361,81.695992,Changorabhatha,Moderate,2
+CR072,Sexual Assault Incident 72,Sexual Assault,21.286146,81.658502,Mowa,High,3
+CR073,Assault Incident 73,Assault,21.315834,81.707619,Changorabhatha,High,3
+CR074,Chain Snatching Incident 74,Chain Snatching,21.302397,81.703785,Changorabhatha,Moderate,6
+CR075,Chain Snatching Incident 75,Chain Snatching,21.224836,81.605825,Amanaka,Moderate,4
+CR076,Eve Teasing Incident 76,Eve Teasing,21.274598,81.66373,Telibandha,Moderate,1
+CR077,Domestic Violence Incident 77,Domestic Violence,21.255559,81.665065,Khamardih,High,8
+CR078,Robbery Incident 78,Robbery,21.285129,81.665941,Mowa,High,4
+CR079,Assault Incident 79,Assault,21.248375,81.626458,Civil Lines,High,2
+CR080,Robbery Incident 80,Robbery,21.217618,81.60015,Amanaka,High,6
+CR081,Theft Incident 81,Theft,21.256033,81.626179,Civil Lines,Low,5
+CR082,Theft Incident 82,Theft,21.251545,81.627531,Civil Lines,Low,6
+CR083,Kidnapping Incident 83,Kidnapping,21.277748,81.64385,Avanti Vihar,High,4
+CR084,Harassment Incident 84,Harassment,21.273341,81.662027,Telibandha,Moderate,4
+CR085,Chain Snatching Incident 85,Chain Snatching,21.27312,81.662628,Mowa,Moderate,6
+CR086,Stalking Incident 86,Stalking,21.302614,81.673994,Kota,Moderate,5
+CR087,Robbery Incident 87,Robbery,21.24267,81.627219,Fafadih,High,5
+CR088,Eve Teasing Incident 88,Eve Teasing,21.235069,81.632639,Fafadih,Moderate,7
+CR089,Eve Teasing Incident 89,Eve Teasing,21.231848,81.616815,Gudhiyari,Moderate,1
+CR090,Robbery Incident 90,Robbery,21.265363,81.674572,Telibandha,High,6
+CR091,Domestic Violence Incident 91,Domestic Violence,21.289075,81.685419,Tatibandh,High,8
+CR092,Eve Teasing Incident 92,Eve Teasing,21.222542,81.596541,Amanaka,Moderate,6
+CR093,Assault Incident 93,Assault,21.262765,81.645594,Shankar Nagar,High,4
+CR094,Harassment Incident 94,Harassment,21.232739,81.647743,Pandri,Moderate,2
+CR095,Chain Snatching Incident 95,Chain Snatching,21.296178,81.691211,Tatibandh,Moderate,7
+CR096,Chain Snatching Incident 96,Chain Snatching,21.285904,81.692497,Tatibandh,Moderate,1
+CR097,Theft Incident 97,Theft,21.314455,81.695501,Changorabhatha,Low,8
+CR098,Sexual Assault Incident 98,Sexual Assault,21.245987,81.635573,Civil Lines,High,8
+CR099,Domestic Violence Incident 99,Domestic Violence,21.242681,81.647806,Pandri,High,6
+CR100,Domestic Violence Incident 100,Domestic Violence,21.221802,81.603508,Amanaka,High,7
+CR101,Sexual Assault Incident 101,Sexual Assault,21.259135,81.654547,Khamardih,High,8
+CR102,Robbery Incident 102,Robbery,21.294028,81.695438,Tatibandh,High,5
+CR103,Sexual Assault Incident 103,Sexual Assault,21.219754,81.595828,Amanaka,High,8
+CR104,Robbery Incident 104,Robbery,21.255752,81.647374,Shankar Nagar,High,2
+CR105,Eve Teasing Incident 105,Eve Teasing,21.2357,81.643103,Pandri,Moderate,4
+CR106,Chain Snatching Incident 106,Chain Snatching,21.258522,81.650682,Shankar Nagar,Moderate,7
+CR107,Assault Incident 107,Assault,21.255326,81.628232,Civil Lines,High,1
+CR108,Kidnapping Incident 108,Kidnapping,21.258086,81.652094,Khamardih,High,6
+CR109,Chain Snatching Incident 109,Chain Snatching,21.275655,81.677255,Telibandha,Moderate,7
+CR110,Sexual Assault Incident 110,Sexual Assault,21.244798,81.636365,Fafadih,High,8
+CR111,Robbery Incident 111,Robbery,21.248973,81.642464,Devendra Nagar,High,6
+CR112,Chain Snatching Incident 112,Chain Snatching,21.233587,81.625448,Gudhiyari,Moderate,3
+CR113,Sexual Assault Incident 113,Sexual Assault,21.292431,81.678304,Kota,High,1
+CR114,Chain Snatching Incident 114,Chain Snatching,21.254171,81.649387,Shankar Nagar,Moderate,1
+CR115,Chain Snatching Incident 115,Chain Snatching,21.267238,81.669275,Telibandha,Moderate,6
+CR116,Chain Snatching Incident 116,Chain Snatching,21.216452,81.607219,Amanaka,Moderate,7
+CR117,Theft Incident 117,Theft,21.269525,81.673984,Telibandha,Low,1
+CR118,Assault Incident 118,Assault,21.282402,81.6645,Mowa,High,1
+CR119,Harassment Incident 119,Harassment,21.227194,81.59519,Amanaka,Moderate,1
+CR120,Eve Teasing Incident 120,Eve Teasing,21.295817,81.679577,Kota,Moderate,2
+CR121,Assault Incident 121,Assault,21.299441,81.6761,Kota,High,6
+CR122,Kidnapping Incident 122,Kidnapping,21.241716,81.643967,Pandri,High,2
+CR123,Eve Teasing Incident 123,Eve Teasing,21.227436,81.59373,Amanaka,Moderate,1
+CR124,Robbery Incident 124,Robbery,21.311213,81.706528,Changorabhatha,High,7
+CR125,Assault Incident 125,Assault,21.263216,81.65305,Avanti Vihar,High,4
+CR126,Robbery Incident 126,Robbery,21.265605,81.651607,Shankar Nagar,High,2
+CR127,Kidnapping Incident 127,Kidnapping,21.224522,81.597555,Amanaka,High,7
+CR128,Stalking Incident 128,Stalking,21.223103,81.622361,Gudhiyari,Moderate,1
+CR129,Chain Snatching Incident 129,Chain Snatching,21.265157,81.653689,Khamardih,Moderate,6
+CR130,Domestic Violence Incident 130,Domestic Violence,21.233317,81.618968,Gudhiyari,High,5
+CR131,Sexual Assault Incident 131,Sexual Assault,21.304394,81.679438,Kota,High,5
+CR132,Assault Incident 132,Assault,21.285292,81.653387,Mowa,High,8
+CR133,Domestic Violence Incident 133,Domestic Violence,21.251118,81.652691,Devendra Nagar,High,6
+CR134,Domestic Violence Incident 134,Domestic Violence,21.255615,81.624909,Civil Lines,High,4
+CR135,Robbery Incident 135,Robbery,21.277445,81.666085,Mowa,High,5
+CR136,Harassment Incident 136,Harassment,21.240266,81.625057,Fafadih,Moderate,4
+CR137,Chain Snatching Incident 137,Chain Snatching,21.249817,81.614131,Samta Colony,Moderate,8
+CR138,Domestic Violence Incident 138,Domestic Violence,21.229171,81.612276,Gudhiyari,High,5
+CR139,Chain Snatching Incident 139,Chain Snatching,21.253069,81.646899,Devendra Nagar,Moderate,6
+CR140,Sexual Assault Incident 140,Sexual Assault,21.290495,81.688808,Tatibandh,High,6
+CR141,Domestic Violence Incident 141,Domestic Violence,21.276335,81.656022,Mowa,High,2
+CR142,Assault Incident 142,Assault,21.247049,81.613886,Samta Colony,High,3
+CR143,Assault Incident 143,Assault,21.253818,81.646424,Devendra Nagar,High,5
+CR144,Assault Incident 144,Assault,21.25674,81.647774,Shankar Nagar,High,5
+CR145,Sexual Assault Incident 145,Sexual Assault,21.244025,81.622728,Civil Lines,High,1
+CR146,Robbery Incident 146,Robbery,21.243159,81.62402,Fafadih,High,8
+CR147,Harassment Incident 147,Harassment,21.261185,81.64951,Shankar Nagar,Moderate,8
+CR148,Eve Teasing Incident 148,Eve Teasing,21.287448,81.65604,Mowa,Moderate,8
+CR149,Theft Incident 149,Theft,21.258411,81.643185,Shankar Nagar,Low,1
+CR150,Eve Teasing Incident 150,Eve Teasing,21.244978,81.647186,Pandri,Moderate,2
+CR151,Theft Incident 151,Theft,21.250929,81.648659,Devendra Nagar,Low,4
+CR152,Sexual Assault Incident 152,Sexual Assault,21.218086,81.606536,Amanaka,High,5
+CR153,Kidnapping Incident 153,Kidnapping,21.267841,81.656886,Khamardih,High,1
+CR154,Theft Incident 154,Theft,21.307161,81.675325,Kota,Low,4
+CR155,Theft Incident 155,Theft,21.264513,81.664781,Telibandha,Low,2
+CR156,Harassment Incident 156,Harassment,21.238536,81.64303,Pandri,Moderate,8
+CR157,Harassment Incident 157,Harassment,21.265704,81.673311,Telibandha,Moderate,8
+CR158,Assault Incident 158,Assault,21.266783,81.654605,Shankar Nagar,High,4
+CR159,Theft Incident 159,Theft,21.270713,81.652362,Avanti Vihar,Low,5
+CR160,Eve Teasing Incident 160,Eve Teasing,21.253143,81.654655,Khamardih,Moderate,5
+CR161,Kidnapping Incident 161,Kidnapping,21.306739,81.679026,Kota,High,8
+CR162,Robbery Incident 162,Robbery,21.253196,81.617083,Samta Colony,High,8
+CR163,Theft Incident 163,Theft,21.291569,81.696231,Tatibandh,Low,6
+CR164,Robbery Incident 164,Robbery,21.292414,81.675663,Kota,High,1
+CR165,Robbery Incident 165,Robbery,21.22122,81.60421,Amanaka,High,3
+CR166,Sexual Assault Incident 166,Sexual Assault,21.292424,81.696657,Tatibandh,High,3
+CR167,Chain Snatching Incident 167,Chain Snatching,21.302157,81.679868,Kota,Moderate,2
+CR168,Stalking Incident 168,Stalking,21.288534,81.687137,Tatibandh,Moderate,2
+CR169,Eve Teasing Incident 169,Eve Teasing,21.257277,81.663099,Khamardih,Moderate,5
+CR170,Chain Snatching Incident 170,Chain Snatching,21.235017,81.620802,Gudhiyari,Moderate,8
+CR171,Stalking Incident 171,Stalking,21.256038,81.643855,Shankar Nagar,Moderate,7
+CR172,Sexual Assault Incident 172,Sexual Assault,21.265199,81.652018,Khamardih,High,8
+CR173,Harassment Incident 173,Harassment,21.265001,81.647788,Avanti Vihar,Moderate,8
+CR174,Domestic Violence Incident 174,Domestic Violence,21.23416,81.615257,Gudhiyari,High,3
+CR175,Robbery Incident 175,Robbery,21.30901,81.703172,Changorabhatha,High,2
+CR176,Kidnapping Incident 176,Kidnapping,21.254789,81.633357,Civil Lines,High,5
+CR177,Harassment Incident 177,Harassment,21.240836,81.623491,Fafadih,Moderate,2
+CR178,Theft Incident 178,Theft,21.292363,81.684464,Tatibandh,Low,5
+CR179,Robbery Incident 179,Robbery,21.238648,81.62972,Fafadih,High,8
+CR180,Domestic Violence Incident 180,Domestic Violence,21.25082,81.648137,Devendra Nagar,High,3
+CR181,Theft Incident 181,Theft,21.25642,81.66464,Khamardih,Low,7
+CR182,Sexual Assault Incident 182,Sexual Assault,21.276275,81.652041,Mowa,High,5
+CR183,Kidnapping Incident 183,Kidnapping,21.261279,81.662559,Khamardih,High,3
+CR184,Sexual Assault Incident 184,Sexual Assault,21.289749,81.687319,Tatibandh,High,7
+CR185,Stalking Incident 185,Stalking,21.295914,81.697692,Tatibandh,Moderate,4
+CR186,Chain Snatching Incident 186,Chain Snatching,21.295737,81.684409,Kota,Moderate,1
+CR187,Domestic Violence Incident 187,Domestic Violence,21.283284,81.664983,Mowa,High,7
+CR188,Eve Teasing Incident 188,Eve Teasing,21.229925,81.612592,Gudhiyari,Moderate,6
+CR189,Theft Incident 189,Theft,21.265987,81.659045,Khamardih,Low,8
+CR190,Eve Teasing Incident 190,Eve Teasing,21.24856,81.632477,Civil Lines,Moderate,3
+CR191,Domestic Violence Incident 191,Domestic Violence,21.264504,81.64624,Shankar Nagar,High,7
+CR192,Theft Incident 192,Theft,21.235628,81.625637,Gudhiyari,Low,7
+CR193,Domestic Violence Incident 193,Domestic Violence,21.285958,81.652574,Mowa,High,2
+CR194,Robbery Incident 194,Robbery,21.257959,81.653948,Devendra Nagar,High,7
+CR195,Theft Incident 195,Theft,21.259099,81.653104,Shankar Nagar,Low,1
+CR196,Stalking Incident 196,Stalking,21.254738,81.626694,Civil Lines,Moderate,6
+CR197,Eve Teasing Incident 197,Eve Teasing,21.265907,81.648593,Avanti Vihar,Moderate,3
+CR198,Eve Teasing Incident 198,Eve Teasing,21.233263,81.645933,Pandri,Moderate,4
+CR199,Kidnapping Incident 199,Kidnapping,21.28429,81.689378,Tatibandh,High,5
+CR200,Robbery Incident 200,Robbery,21.292669,81.696383,Tatibandh,High,8
+CR201,Robbery Incident 201,Robbery,21.312842,81.694528,Changorabhatha,High,8
+CR202,Kidnapping Incident 202,Kidnapping,21.276786,81.667392,Mowa,High,5
+CR203,Robbery Incident 203,Robbery,21.285187,81.688155,Tatibandh,High,8
+CR204,Assault Incident 204,Assault,21.258102,81.647743,Shankar Nagar,High,5
+CR205,Robbery Incident 205,Robbery,21.242351,81.615281,Samta Colony,High,7
+CR206,Harassment Incident 206,Harassment,21.271055,81.672973,Telibandha,Moderate,1
+CR207,Kidnapping Incident 207,Kidnapping,21.313923,81.705325,Changorabhatha,High,5
+CR208,Assault Incident 208,Assault,21.221713,81.597637,Amanaka,High,4
+CR209,Robbery Incident 209,Robbery,21.302844,81.683535,Kota,High,3
+CR210,Theft Incident 210,Theft,21.236454,81.622341,Gudhiyari,Low,5
+CR211,Domestic Violence Incident 211,Domestic Violence,21.212534,81.597838,Amanaka,High,3
+CR212,Robbery Incident 212,Robbery,21.257228,81.648648,Shankar Nagar,High,4
+CR213,Sexual Assault Incident 213,Sexual Assault,21.246023,81.637854,Pandri,High,5
+CR214,Eve Teasing Incident 214,Eve Teasing,21.256112,81.665195,Khamardih,Moderate,8
+CR215,Robbery Incident 215,Robbery,21.223945,81.597419,Amanaka,High,2
+CR216,Theft Incident 216,Theft,21.284252,81.697464,Tatibandh,Low,7
+CR217,Sexual Assault Incident 217,Sexual Assault,21.257852,81.664651,Khamardih,High,1
+CR218,Sexual Assault Incident 218,Sexual Assault,21.263977,81.667897,Telibandha,High,5
+CR219,Chain Snatching Incident 219,Chain Snatching,21.305159,81.687045,Kota,Moderate,2
+CR220,Assault Incident 220,Assault,21.229544,81.621913,Gudhiyari,High,6
+CR221,Kidnapping Incident 221,Kidnapping,21.305542,81.693011,Changorabhatha,High,8
+CR222,Robbery Incident 222,Robbery,21.312388,81.693867,Changorabhatha,High,1
+CR223,Robbery Incident 223,Robbery,21.257935,81.623858,Civil Lines,High,4
+CR224,Sexual Assault Incident 224,Sexual Assault,21.304171,81.699258,Changorabhatha,High,7
+CR225,Eve Teasing Incident 225,Eve Teasing,21.306167,81.682479,Kota,Moderate,8
+CR226,Chain Snatching Incident 226,Chain Snatching,21.307025,81.676476,Kota,Moderate,6
+CR227,Domestic Violence Incident 227,Domestic Violence,21.249115,81.645778,Devendra Nagar,High,6
+CR228,Stalking Incident 228,Stalking,21.260711,81.657645,Shankar Nagar,Moderate,6
+CR229,Chain Snatching Incident 229,Chain Snatching,21.246414,81.637491,Civil Lines,Moderate,8
+CR230,Assault Incident 230,Assault,21.262267,81.651554,Shankar Nagar,High,1
+CR231,Stalking Incident 231,Stalking,21.245897,81.624015,Civil Lines,Moderate,4
+CR232,Sexual Assault Incident 232,Sexual Assault,21.255315,81.645455,Shankar Nagar,High,4
+CR233,Eve Teasing Incident 233,Eve Teasing,21.284618,81.661536,Mowa,Moderate,5
+CR234,Eve Teasing Incident 234,Eve Teasing,21.2678,81.660643,Khamardih,Moderate,3
+CR235,Harassment Incident 235,Harassment,21.254109,81.647732,Shankar Nagar,Moderate,4
+CR236,Stalking Incident 236,Stalking,21.292252,81.676246,Kota,Moderate,3
+CR237,Chain Snatching Incident 237,Chain Snatching,21.250417,81.613931,Samta Colony,Moderate,8
+CR238,Stalking Incident 238,Stalking,21.290212,81.683745,Tatibandh,Moderate,4
+CR239,Harassment Incident 239,Harassment,21.303636,81.68654,Kota,Moderate,5
+CR240,Harassment Incident 240,Harassment,21.282973,81.689664,Tatibandh,Moderate,7
+CR241,Theft Incident 241,Theft,21.269844,81.656555,Avanti Vihar,Low,2
+CR242,Theft Incident 242,Theft,21.307154,81.694373,Changorabhatha,Low,3
+CR243,Kidnapping Incident 243,Kidnapping,21.272129,81.670774,Telibandha,High,6
+CR244,Kidnapping Incident 244,Kidnapping,21.270489,81.649259,Avanti Vihar,High,7
+CR245,Theft Incident 245,Theft,21.265645,81.652415,Shankar Nagar,Low,4
+CR246,Domestic Violence Incident 246,Domestic Violence,21.276209,81.648621,Avanti Vihar,High,8
+CR247,Chain Snatching Incident 247,Chain Snatching,21.273674,81.647001,Avanti Vihar,Moderate,6
+CR248,Robbery Incident 248,Robbery,21.227989,81.614442,Gudhiyari,High,8
+CR249,Theft Incident 249,Theft,21.265308,81.643492,Shankar Nagar,Low,2
+CR250,Stalking Incident 250,Stalking,21.254988,81.610902,Samta Colony,Moderate,6
